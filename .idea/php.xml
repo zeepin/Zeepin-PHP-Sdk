@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="/usr/local/Cellar/php@7.2/7.2.29/share/php@7.2/pear" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/clue/block-react" />
+      <path value="$PROJECT_DIR$/vendor/react/cache" />
+      <path value="$PROJECT_DIR$/vendor/react/stream" />
+      <path value="$PROJECT_DIR$/vendor/react/dns" />
+      <path value="$PROJECT_DIR$/vendor/react/promise-timer" />
+      <path value="$PROJECT_DIR$/vendor/react/promise" />
+      <path value="$PROJECT_DIR$/vendor/react/socket" />
+      <path value="$PROJECT_DIR$/vendor/react/event-loop" />
+      <path value="$PROJECT_DIR$/vendor/adbario/php-dot-notation" />
+      <path value="$PROJECT_DIR$/vendor/bitwasp/buffertools" />
+      <path value="$PROJECT_DIR$/vendor/bitwasp/bitcoin" />
+      <path value="$PROJECT_DIR$/vendor/bitwasp/bech32" />
+      <path value="$PROJECT_DIR$/vendor/fgrosse/phpasn1" />
+      <path value="$PROJECT_DIR$/vendor/mdanter/ecc" />
+      <path value="$PROJECT_DIR$/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/vendor/ratchet/pawl" />
+      <path value="$PROJECT_DIR$/vendor/ratchet/rfc6455" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/pleonasm/merkle-tree" />
+      <path value="$PROJECT_DIR$/vendor/simplito/elliptic-php" />
+      <path value="$PROJECT_DIR$/vendor/simplito/bn-php" />
+      <path value="$PROJECT_DIR$/vendor/simplito/bigint-wrapper-php" />
+      <path value="$PROJECT_DIR$/vendor/evenement/evenement" />
+      <path value="$PROJECT_DIR$/vendor/lastguest/murmurhash" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/stephenhill/base58" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/vendor/phpdocumentor/reflection-common" />
+    </include_path>
+  </component>
+  <component name="PhpInterpreters">
+    <interpreters>
+      <interpreter id="d55353c1-e00c-4b51-a4c8-3ed7066fdbe0" name="PHP 7.2" home="/usr/local/Cellar/php@7.2/7.2.29/bin/php" debugger_id="php.debugger.XDebug" />
+    </interpreters>
+  </component>
+  <component name="PhpInterpretersPhpInfoCache">
+    <phpInfoCache>
+      <interpreter name="PHP 7.2">
+        <phpinfo binary_type="PHP" php_cgi="/usr/local/Cellar/php@7.2/7.2.29/bin/php-cgi" php_cli="/usr/local/Cellar/php@7.2/7.2.29/bin/php" path_separator=":" version="7.2.29">
+          <additional_php_ini>/usr/local/etc/php/7.2/conf.d/ext-opcache.ini</additional_php_ini>
+          <configuration_file>/usr/local/etc/php/7.2/php.ini</configuration_file>
+          <configuration_options>
+            <configuration_option name="include_path" value=".:/usr/local/Cellar/php@7.2/7.2.29/share/php@7.2/pear" />
+          </configuration_options>
+          <debuggers />
+          <loaded_extensions>
+            <extension name="Core" />
+            <extension name="PDO" />
+            <extension name="PDO_ODBC" />
+            <extension name="Phar" />
+            <extension name="Reflection" />
+            <extension name="SPL" />
+            <extension name="SimpleXML" />
+            <extension name="Zend OPcache" />
+            <extension name="bcmath" />
+            <extension name="bz2" />
+            <extension name="calendar" />
+            <extension name="ctype" />
+            <extension name="curl" />
+            <extension name="date" />
+            <extension name="dba" />
+            <extension name="dom" />
+            <extension name="exif" />
+            <extension name="fileinfo" />
+            <extension name="filter" />
+            <extension name="ftp" />
+            <extension name="gd" />
+            <extension name="gettext" />
+            <extension name="gmp" />
+            <extension name="hash" />
+            <extension name="iconv" />
+            <extension name="intl" />
+            <extension name="json" />
+            <extension name="ldap" />
+            <extension name="libxml" />
+            <extension name="mbstring" />
+            <extension name="mysqli" />
+            <extension name="mysqlnd" />
+            <extension name="odbc" />
+            <extension name="openssl" />
+            <extension name="pcntl" />
+            <extension name="pcre" />
+            <extension name="pdo_dblib" />
+            <extension name="pdo_mysql" />
+            <extension name="pdo_pgsql" />
+            <extension name="pdo_sqlite" />
+            <extension name="pgsql" />
+            <extension name="phpdbg_webhelper" />
+            <extension name="posix" />
+            <extension name="pspell" />
+            <extension name="readline" />
+            <extension name="scrypt" />
+            <extension name="session" />
+            <extension name="shmop" />
+            <extension name="soap" />
+            <extension name="sockets" />
+            <extension name="sodium" />
+            <extension name="sqlite3" />
+            <extension name="standard" />
+            <extension name="sysvmsg" />
+            <extension name="sysvsem" />
+            <extension name="sysvshm" />
+            <extension name="tidy" />
+            <extension name="tokenizer" />
+            <extension name="wddx" />
+            <extension name="xml" />
+            <extension name="xmlreader" />
+            <extension name="xmlrpc" />
+            <extension name="xmlwriter" />
+            <extension name="xsl" />
+            <extension name="zip" />
+            <extension name="zlib" />
+          </loaded_extensions>
+        </phpinfo>
+      </interpreter>
+    </phpInfoCache>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7" />
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings load_method="PHPUNIT_PHAR" custom_loader_path="$PROJECT_DIR$/phpunit.phar" phpunit_phar_path="/usr/local/bin/phpunit.phar" />
+    </phpunit_settings>
+  </component>
+</project>
